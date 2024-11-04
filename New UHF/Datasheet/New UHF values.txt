@@ -1,0 +1,18 @@
+Dear Javier,
+
+Here is the details,
+
+Tuning range – 430MHz to 440MHz
+Step increment – 10Hz
+Modulation 
+              GMSK, CW morse
+Bandwidth
+              GMSK = 20kHz
+              CW = 500Hz
+Power output 
+GMSK = 800mW
+CW = 100mW
+Link budget = Same as old transceiver
+
+Best Regards
+Tharindu
